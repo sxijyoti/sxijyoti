@@ -1,5 +1,5 @@
-Hello there!  
-Welcome to my little corner on the internet — glad you stopped by! :)
+hello there!  
+welcome to my little corner on the internet :)
 <!--
 <br/>
 <br/>
