@@ -1,5 +1,10 @@
-## Hi there 👋
-
+Hello there!  
+Welcome to my little corner on the internet — glad you stopped by! :)
+<!--
+<br/>
+<br/>
+< img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fac8ccb2-5655-420d-a7bc-f4d684fafb47" />
+-->
 <!--
 **sxijyoti/sxijyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
