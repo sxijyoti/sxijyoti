@@ -1,5 +1,5 @@
 hello there!  
-welcome to my [little corner on the internet](https://saijyoti.netlify.app/) :)
+welcome to my [little corner on the internet](https://sxijyoti.github.io/) :)
 <!--
 <br/>
 <br/>
